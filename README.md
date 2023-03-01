@@ -1,15 +1,10 @@
 # cs542-fall-22-assign4
 
-Team Members:
+Author:
 
 ## Name: Ashrit Kankipati
 ## Email: akankip1@binghamton.edu
 
-
-
-## Number of slack days used: 3 
------------------------------------------------------------------------
------------------------------------------------------------------------
 
 
 Following are the commands and the instructions to run ANT on your project.
@@ -43,7 +38,7 @@ Note: Arguments accept the absolute path of the files.
 
 -----------------------------------------------------------------------
 ## Description:
-Our program accepts two input files and one k value to give the desired outputs to the files. 
+This program accepts two input files and one k value to give the desired outputs to the files. 
 Patterns used:
 1) Visitor pattern: For this two visitors have been created.
 1st visitor: visits myArrayList and runs the analytics for k most frequent words in the file. We have ignored the MyElement condition in our submission.
@@ -54,20 +49,7 @@ Strategy 2: compares the words and the comparison is not case sensitive, i.e eve
 
 class names for the two strategies are: strategy1() and strategy2() which are passed while creating the elements: visitor vis1 = new spellV(new strategy1(),new strategy2());
 Assumed that all input files are well formatted.
------------------------------------------------------------------------
-### Academic Honesty statement:
------------------------------------------------------------------------
 
-"We have done this assignment completely on my own. We have not copied
-it, nor have We given my solution to anyone else. We understand that if
-we am involved in plagiarism or cheating we will have to sign an
-official form that we have cheated and that this form will be stored in
-my official university record. We also understand that we will receive a
-grade of 0 for the involved assignment for my first offense and that we
-will receive a grade of F for the course for any additional
-offense.""
-
-Date: 12/11/2022
 
 
 
