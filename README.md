@@ -1,11 +1,6 @@
-# cs542-fall-22-assign4
-
 Author:
 
 ## Name: Ashrit Kankipati
-## Email: akankip1@binghamton.edu
-
-
 
 Following are the commands and the instructions to run ANT on your project.
 #### Note: build.xml is present in myVisitor/src folder.
